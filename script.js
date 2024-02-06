@@ -8,6 +8,7 @@ $(document).ready(function () {
         "slow"
       );
     })
+    
     .mouseleave(function () {
       $(".card").stop().animate(
         {
